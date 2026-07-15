@@ -1,61 +1,65 @@
-<h1 align="center">Hola, soy Angel David Infante Espinel 👋</h1>
+<h1 align="center">Angel David Infante Espinel</h1>
 
 <p align="center">
-  Ingeniero de Software en formación | Desarrollador Full-Stack Jr. | Apasionado por la tecnología y la construcción de soluciones web
+  Ingeniero de Software en formación • Desarrollador Full-Stack Jr.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-Student-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-16a34a?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-Bootcamp-7c3aed?style=for-the-badge" />
 </p>
 
 ---
 
-## Sobre mí
+## About Me
 
-Soy estudiante de Ingeniería de Software y tecnólogo en Análisis y Desarrollo de Software, con experiencia en proyectos académicos y formativos enfocados en desarrollo web, análisis de requerimientos, diseño de interfaces, bases de datos y documentación técnica.
+Soy estudiante de Ingeniería de Software y tecnólogo en Análisis y Desarrollo de Software, con interés en el desarrollo de soluciones web, bases de datos, diseño de interfaces y documentación técnica.
 
-Actualmente me enfoco en el desarrollo de aplicaciones web modernas, integrando frontend y backend con tecnologías como React, Vite, Supabase y herramientas de diseño y despliegue. También he fortalecido mi perfil con formación en inteligencia artificial, participando en un bootcamp donde desarrollé modelos pequeños con Python y un chatbot.
-
----
-
-## Tecnologías y herramientas
-
-- **Frontend:** HTML, CSS, JavaScript, React, Vite, Tailwind CSS
-- **Backend:** JavaScript, Python
-- **Bases de datos:** SQL, Supabase
-- **Diseño y prototipado:** Figma, WordPress
-- **Otras herramientas:** Git, GitHub, Vercel, UML, Android Studio
+Actualmente trabajo en proyectos académicos y formativos relacionados con desarrollo full-stack, análisis de requerimientos y construcción de sistemas web. También fortalecí mi perfil con formación en inteligencia artificial, utilizando Python y librerías especializadas para desarrollar modelos pequeños y un chatbot.
 
 ---
 
-## Proyectos destacados
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,html,css,sql" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,supabase,vercel,figma,wordpress,git,github" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/UML-Modeling-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Documentation-Technical-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Android%20Studio-Basic-3DDC84?style=flat-square&logo=androidstudio&logoColor=white" />
+</p>
+
+---
+
+## Featured Projects
 
 ### Sistema de Reservas de Mesas
-Aplicación web full-stack para la gestión de reservas en restaurante, con módulos para clientes y administradores, manejo de mesas, usuarios y reservas.
+Aplicación web full-stack para la gestión de reservas en restaurante, con funcionalidades para clientes y administradores, manejo de mesas, usuarios y reservas.
 
-**Tecnologías:** React, Vite, Supabase, Vercel
+**Stack:** React, Vite, Supabase, Vercel
 
 ### Sistema de gestión para Fruver
-Proyecto orientado a la gestión de inventario, facturación y ventas, desarrollado como parte de la formación en análisis y diseño de software.
-
-**Enfoques trabajados:** requerimientos, UML, prototipos, documentación técnica
+Proyecto orientado a la gestión de inventario, facturación y ventas, desarrollado desde el análisis de requerimientos hasta prototipos, UML y documentación técnica.
 
 ### Chatbot académico
-Desarrollo de un chatbot como proyecto académico, aplicando lógica de programación e interacción con el usuario.
-
-### Proyecto web en WordPress
-Participación en semillero de investigación con el desarrollo de una página web para el programa de Ingeniería de Software.
+Proyecto desarrollado para aplicar lógica de programación, interacción con usuario y automatización básica de respuestas.
 
 ### Bootcamp en Inteligencia Artificial
-Formación práctica en IA con uso de Python y librerías para crear modelos pequeños, además del desarrollo de un chatbot.
+Formación práctica en inteligencia artificial usando Python y librerías especializadas para la creación de modelos pequeños y un chatbot.
+
+### Sitio web en WordPress
+Participación en semillero de investigación con el desarrollo de una página web para el programa de Ingeniería de Software.
 
 ---
 
-## Actualmente
-
-- Desarrollando proyectos full-stack.
-- Fortaleciendo conocimientos en arquitectura de software y bases de datos.
-- Aprendiendo más sobre inteligencia artificial aplicada al desarrollo de software.
-
----
-
-## Habilidades
+## Skills
 
 - Desarrollo web frontend y full-stack
 - Análisis y levantamiento de requerimientos
@@ -67,13 +71,31 @@ Formación práctica en IA con uso de Python y librerías para crear modelos peq
 
 ---
 
-## Contacto
+## Currently Learning
 
-- **LinkedIn:** [Agrega tu enlace aquí](#)
-- **Correo:** [Agrega tu correo aquí](#)
+- Arquitectura de software
+- Desarrollo full-stack moderno
+- Inteligencia artificial aplicada
+- Diseño y gestión de bases de datos
 
 ---
 
+## Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/angel-david-infante-espinel-a72594266/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:angeldavid1.ie@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
 <p align="center">
-  Gracias por visitar mi perfil 🚀
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" height="165" />
 </p>
